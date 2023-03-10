@@ -1,0 +1,175 @@
+id,verdict_date,publication_date,verdict_type,jurisdiction_type,crime_date,crime_month,crime_year,verdict_month,verdict_year,suspect_age,criminal_organization,rechtbank,hoger_beroep,crime_location,drug_type,minor,gerechtshof,zittingsplaats
+ECLI-NL-RBDHA-2019-9384,2019-06-27,2019-09-10,uitspraak,['Strafrecht'],2019-04-17,April,2019,June,2019,18,0,Den Haag,0,Gouda,cocaïne,0,,
+ECLI-NL-GHAMS-2020-1930,2020-07-09,2020-07-10,uitspraak,['Strafrecht'],2019-04-19,April,2019,July,2020,17,0,Amsterdam,1,Amsterdam,cocaïne,1,Amsterdam,
+ECLI-NL-GHAMS-2022-115,2022-01-18,2022-01-21,uitspraak,['Strafrecht'],2020-07-13,July,2020,January,2022,19,0,Noord-Holland,1,Hoofddorp,hennep,0,Amsterdam,
+ECLI-NL-RBROT-2019-4815,2019-02-28,2019-06-18,uitspraak,['Strafrecht'],2018-11-02,November,2018,February,2019,17,0,Rotterdam,0,Meer,mdma,1,,
+ECLI-NL-RBNNE-2023-118,2023-01-02,2023-01-17,uitspraak,['Strafrecht'],2022-02-03,February,2022,January,2023,20,0,NOORD-NEDERLAND,0,Roden,hennep,0,,
+ECLI-NL-RBAMS-2019-5301,2019-07-11,2019-07-22,uitspraak,['Strafrecht'],2016-01-01,January,2016,July,2019,-3,0,AMSTERDAM,0,Amsterdam,xtc,1,,
+ECLI-NL-OGHACMB-2018-269,2018-02-05,2019-03-12,uitspraak,['Strafrecht'],2017-01-17,January,2017,February,2018,0,0,,0,,hennep,1,,
+ECLI-NL-RBMNE-2022-4093,2022-10-11,2022-10-11,uitspraak,['Strafrecht'],2021-07-01,July,2021,October,2022,-1,1,MIDDEN-NEDERLAND,0,Lelystad,hennep,1,,Lelystad
+ECLI-NL-RBDHA-2020-5856,2020-06-11,2020-07-01,uitspraak,['Strafrecht'],2019-07-01,July,2019,June,2020,15,0,Den Haag,0,s-Gravenhage,mdma,1,,
+ECLI-NL-RBDHA-2022-7934,2022-05-18,2022-08-04,uitspraak,['Strafrecht'],2020-10-05,October,2020,May,2022,18,0,Den Haag,0,Den Haag,hennep,0,,
+ECLI-NL-RBOVE-2022-565,2022-02-28,2022-02-28,uitspraak,['Strafrecht'],2020-05-03,May,2020,February,2022,17,0,OVERIJSSEL,0,Enschede,hennep,1,,Almelo
+ECLI-NL-RBGEL-2021-2126,2021-04-26,2021-04-28,uitspraak,['Strafrecht'],2020-10-17,October,2020,April,2021,20,0,GELDERLAND,0,Apeldoorn,mdma,0,,Zutphen
+ECLI-NL-RBMNE-2021-1748,2021-04-30,2021-04-30,uitspraak,['Strafrecht'],2019-04-05,April,2019,April,2021,0,0,MIDDEN-NEDERLAND,0,Amersfoort,cocaïne,1,,Utrecht
+ECLI-NL-RBSGR-2010-BM0841,2010-03-11,2010-04-12,uitspraak,['Strafrecht'],2009-04-29,April,2009,March,2010,15,0,'S-GRAVENHAGE,0,s-Gravenhage,cocaïne,1,,
+ECLI-NL-RBAMS-2022-3450,2022-06-16,2022-06-20,uitspraak,['Strafrecht; Materieel strafrecht'],2022-02-23,February,2022,June,2022,18,0,AMSTERDAM,0,Amsterdam,hennep,0,,
+ECLI-NL-RBROT-2018-1074,2018-02-08,2018-05-01,uitspraak,['Strafrecht'],2017-09-07,September,2017,February,2018,0,0,Rotterdam,0,Utrecht,mdma,1,,
+ECLI-NL-RBAMS-2022-5998,2022-09-30,2022-10-24,uitspraak,['Strafrecht'],2022-04-08,April,2022,September,2022,19,0,AMSTERDAM,0,Amsterdam,cocaïne,0,,
+ECLI-NL-RBAMS-2021-3067,2021-06-15,2021-06-23,uitspraak,['Strafrecht'],2020-08-09,August,2020,June,2021,18,0,AMSTERDAM,0,Amsterdam,cocaïne,0,,
+ECLI-NL-RBMNE-2016-550,2016-02-03,2016-02-12,uitspraak,['Strafrecht'],2014-05-11,May,2014,February,2016,-1,1,kennisgenomen,1,Utrecht,cocaïne,1,Arnhem-Leeuwarden,
+ECLI-NL-RBROT-2020-10728,2020-09-10,2020-11-25,uitspraak,['Strafrecht'],2019-01-26,January,2019,September,2020,0,0,Rotterdam,0,Rotterdam,hennep,1,,
+ECLI-NL-RBDHA-2021-1060,2021-02-15,2021-02-15,uitspraak,['Strafrecht'],2020-05-16,May,2020,February,2021,17,0,Den Haag,0,Delft,(hard)drugs,1,,
+ECLI-NL-RBDHA-2021-10846,2021-05-20,2021-10-11,uitspraak,['Strafrecht'],2019-12-28,December,2019,May,2021,15,0,Den Haag,0,Den Haag,cocaïne,1,,
+ECLI-NL-RBDHA-2021-11798,2021-10-28,2021-10-28,uitspraak,['Strafrecht'],2020-10-29,October,2020,October,2021,19,0,Den Haag,0,Gouda,cocaïne,0,,
+ECLI-NL-GHARL-2020-8630,2020-10-27,2020-10-27,uitspraak,['Strafrecht'],2019-07-07,July,2019,October,2020,17,0,Midden-Nederland,1,Utrecht,hennep,1,Arnhem-Leeuwarden,Arnhem
+ECLI-NL-GHARL-2021-6844,2021-07-07,2021-07-15,uitspraak,['Strafrecht'],2019-10-14,October,2019,July,2021,17,0,Midden-Nederland,1,Lelystad,hennep,1,Arnhem-Leeuwarden,Zwolle
+ECLI-NL-RBMNE-2014-7119,2014-12-23,2014-12-24,uitspraak,['Strafrecht'],2014-05-07,May,2014,December,2014,0,0,MIDDEN-NEDERLAND,0,Eindhoven,hennep,1,,
+ECLI-NL-RBROT-2017-4477,2017-04-21,2017-06-12,uitspraak,['Strafrecht'],2017-01-25,January,2017,April,2017,0,0,Rotterdam,0,Rotterdam,mdma,1,,
+ECLI-NL-RBMNE-2016-549,2016-02-03,2016-02-12,uitspraak,['Strafrecht'],2016-01-20,January,2016,February,2016,1,1,kennisgenomen,0,Utrecht,cocaïne,1,,
+ECLI-NL-RBROT-2022-6624,2022-07-18,2022-08-09,uitspraak,['Strafrecht'],2022-04-11,April,2022,July,2022,0,0,Rotterdam,0,Rotterdam,cocaïne,1,,
+ECLI-NL-RBGEL-2018-1099,2018-03-13,2018-03-13,uitspraak,['Strafrecht'],2017-07-03,July,2017,March,2018,19,0,GELDERLAND,0,Tolkamer,speed,0,,Arnhem
+ECLI-NL-GHAMS-2022-975,2022-03-31,2022-04-01,uitspraak,['Strafrecht'],2020-08-09,August,2020,March,2022,18,0,Amsterdam,1,Amsterdam,cocaïne,0,Amsterdam,
+ECLI-NL-OGEAA-2018-856,2018-12-13,2019-04-29,uitspraak,['Strafrecht'],2018-05-05,May,2018,December,2018,0,0,,0,,hennep,1,,
+ECLI-NL-RBNHO-2020-8004,2020-10-13,2020-10-13,uitspraak,['Strafrecht'],2019-08-12,August,2019,October,2020,18,0,NOORD-HOLLAND,0,Haarlem,cocaïne,0,,
+ECLI-NL-RBNHO-2020-8003,2020-10-13,2020-10-13,uitspraak,['Strafrecht'],2020-04-24,April,2020,October,2020,18,0,NOORD-HOLLAND,0,Amsterdam,hennep,0,,
+ECLI-NL-RBGEL-2013-CA2302,2013-06-06,2013-06-07,uitspraak,['Strafrecht'],2012-08-07,August,2012,June,2013,0,0,GELDERLAND,0,Malden,cocaïne,1,,Arnhem
+ECLI-NL-RBNNE-2022-7,2022-01-06,2022-01-06,uitspraak,['Strafrecht'],2021-06-20,June,2021,January,2022,21,0,NOORD-NEDERLAND,0,Appingedam,(hard)drugs,0,,
+ECLI-NL-RBOBR-2020-5697,2020-11-17,2020-11-17,uitspraak,['Strafrecht'],2020-11-03,November,2020,November,2020,20,1,OOST-BRABANT,0,Drempt,amfetamine,0,,
+ECLI-NL-RBMNE-2021-6164,2021-12-20,2022-12-05,uitspraak,['Strafrecht; Materieel strafrecht'],2021-06-28,June,2021,December,2021,0,0,MIDDEN-NEDERLAND,0,Monster,hennep,1,,Utrecht
+ECLI-NL-RBAMS-2019-5299,2019-07-11,2019-07-22,uitspraak,['Strafrecht; Materieel strafrecht'],2016-01-01,January,2016,July,2019,-3,0,AMSTERDAM,0,Diemen,xtc,1,,
+ECLI-NL-RBZWB-2022-2659,2022-05-17,2022-05-17,uitspraak,['Strafrecht'],2021-11-03,November,2021,May,2022,19,0,ZEELAND-WEST-BRABANT,0,Frankrijk,heroïne,0,,
+ECLI-NL-RBNNE-2022-4021,2022-11-03,2022-11-03,uitspraak,['Strafrecht'],2022-05-27,May,2022,November,2022,19,0,NOORD-NEDERLAND,0,Friesland,cocaïne,0,,
+ECLI-NL-RBZWB-2022-7763,2022-12-20,2022-12-20,uitspraak,['Strafrecht'],2022-07-24,July,2022,December,2022,21,0,ZEELAND-WEST-BRABANT,0,Dordrecht,cocaïne,0,,
+ECLI-NL-RBMNE-2022-170,2022-01-24,2022-01-24,uitspraak,['Strafrecht'],2021-08-02,August,2021,January,2022,0,0,MIDDEN-NEDERLAND,0,Utrecht,cocaïne,1,,Utrecht
+ECLI-NL-RBNNE-2019-2904,2019-07-04,2019-07-04,uitspraak,['Strafrecht'],2018-10-30,October,2018,July,2019,18,0,NOORD-NEDERLAND,0,Marum,cocaïne,0,,
+ECLI-NL-RBDHA-2022-8021,2022-06-30,2022-08-10,uitspraak,['Strafrecht'],2021-12-29,December,2021,June,2022,0,0,Den Haag,0,s-Gravenhage,mdma,1,,
+ECLI-NL-RBDHA-2020-9301,2020-09-24,2020-09-25,uitspraak,['Strafrecht'],2019-05-04,May,2019,September,2020,16,0,Den Haag,0,Leiderdorp,cocaïne,1,,
+ECLI-NL-RBMNE-2021-2175,2021-05-26,2021-05-26,uitspraak,['Strafrecht'],2017-12-11,December,2017,May,2021,-4,0,MIDDEN-NEDERLAND,0,Utrecht,cocaïne,1,,Utrecht
+ECLI-NL-RBNNE-2022-4873,2022-12-22,2022-12-22,uitspraak,['Strafrecht'],2021-12-04,December,2021,December,2022,-1,0,NOORD-NEDERLAND,0,Assen,hennep,1,,
+ECLI-NL-RBOBR-2021-6492,2021-12-14,2021-12-15,uitspraak,['Strafrecht'],2018-08-20,August,2018,December,2021,-3,0,OOST-BRABANT,0,Eindhoven,mefedron,1,,
+ECLI-NL-RBDHA-2022-9039,2022-09-08,2022-09-08,uitspraak,['Strafrecht'],2022-07-07,July,2022,September,2022,19,0,Den Haag,0,s-Gravenhage,cocaïne,0,,
+ECLI-NL-RBGEL-2018-5192,2018-12-05,2018-12-06,uitspraak,['Strafrecht'],2017-11-03,November,2017,December,2018,21,0,GELDERLAND,0,Malden,hennep,0,,Arnhem
+ECLI-NL-RBAMS-2022-4931,2022-08-19,2022-08-19,uitspraak,['Strafrecht'],2021-06-01,June,2021,August,2022,19,0,AMSTERDAM,0,Amstelveen,crack,0,,
+ECLI-NL-RBLIM-2021-1908,2021-02-19,2021-03-04,uitspraak,['Strafrecht'],2019-07-29,July,2019,February,2021,20,0,LIMBURG,1,Venlo,mdma,0,‘s-Hertogenbosch,Roermond
+ECLI-NL-RBOBR-2019-7690,2019-12-20,2020-10-29,uitspraak,['Strafrecht'],2018-10-17,October,2018,December,2019,17,0,OOST-BRABANT,0,Eindhoven,hennep,1,,
+ECLI-NL-RBNNE-2018-1445,2018-04-19,2018-04-19,uitspraak,['Strafrecht'],2018-03-18,March,2018,April,2018,20,0,NOORD-NEDERLAND,0,Leeuwarden,cocaïne,0,,
+ECLI-NL-RBZWB-2022-6218,2022-10-27,2022-10-27,uitspraak,['Strafrecht'],2020-01-16,January,2020,October,2022,18,1,ZEELAND-WEST-BRABANT,0,Goes,hennep,0,,
+ECLI-NL-GHARL-2020-5524,2020-07-15,2020-07-15,uitspraak,['Strafrecht'],2018-09-11,September,2018,July,2020,19,0,Midden-Nederland,1,,xtc,0,Arnhem-Leeuwarden,Leeuwarden
+ECLI-NL-RBMNE-2022-1544,2022-04-22,2022-04-22,uitspraak,['Strafrecht'],2021-05-27,May,2021,April,2022,0,0,MIDDEN-NEDERLAND,0,Zeewolde,hennep,1,,Lelystad
+ECLI-NL-RBGEL-2022-7193,2022-12-22,2023-01-27,uitspraak,['Strafrecht'],2022-06-04,June,2022,December,2022,0,0,GELDERLAND,0,Nijmegen,mdma,1,,Arnhem
+ECLI-NL-RBMNE-2020-2040,2020-06-02,2020-06-03,uitspraak,['Strafrecht'],2019-12-28,December,2019,June,2020,0,0,MIDDEN-NEDERLAND,0,Lelystad,hennep,1,,Lelystad
+ECLI-NL-RBROT-2021-12341,2021-12-15,2021-12-15,uitspraak,['Strafrecht'],2020-05-31,May,2020,December,2021,0,0,Rotterdam,0,Rotterdam,cocaïne,1,,
+ECLI-NL-GHARL-2021-7243,2021-07-28,2021-07-28,uitspraak,['Strafrecht'],2017-01-03,January,2017,July,2021,18,0,Midden-Nederland,1,Arnhem,hennep,0,Arnhem-Leeuwarden,Leeuwarden
+ECLI-NL-RBROT-2021-3560,2021-04-07,2021-04-22,uitspraak,['Strafrecht'],2020-10-09,October,2020,April,2021,-1,1,Rotterdam,0,Rotterdam,cocaïne,1,,
+ECLI-NL-RBAMS-2023-332,2023-01-24,2023-01-31,uitspraak,['Strafrecht; Materieel strafrecht'],2022-01-15,January,2022,January,2023,19,0,AMSTERDAM,0,Amsterdam,hennep,0,,
+ECLI-NL-RBAMS-2020-3122,2020-06-24,2020-06-25,uitspraak,['Strafrecht'],2020-06-10,June,2020,June,2020,21,1,AMSTERDAM,0,Arnhem,mdma,0,,
+ECLI-NL-GHARL-2021-6301,2021-06-23,2021-07-19,uitspraak,['Strafrecht'],2019-07-14,July,2019,June,2021,19,0,Noord-Nederland,1,Sprong,hennep,0,Arnhem-Leeuwarden,Leeuwarden
+ECLI-NL-RBARN-2011-BQ0218,2011-04-05,2011-04-06,uitspraak,['Strafrecht'],2010-09-29,September,2010,April,2011,0,0,ARNHEM,0,Culemborg,hennep,1,,
+ECLI-NL-RBOBR-2020-5838,2020-11-30,2020-11-30,uitspraak,['Strafrecht'],2018-03-22,March,2018,November,2020,21,0,OOST-BRABANT,0,Schaijk,cocaïne,0,,
+ECLI-NL-RBNHO-2020-3778,2020-05-15,2020-05-20,uitspraak,['Strafrecht'],2020-01-23,January,2020,May,2020,0,0,NOORD-HOLLAND,0,Frankrijk,cocaïne,1,,
+ECLI-NL-RBROT-2022-10277,2022-10-27,2022-11-28,uitspraak,['Strafrecht'],2022-07-19,July,2022,October,2022,0,0,Rotterdam,0,Drie,cocaïne,1,,
+ECLI-NL-RBOBR-2020-2879,2020-06-08,2020-06-08,uitspraak,['Strafrecht'],2019-03-05,March,2019,June,2020,23,0,OOST-BRABANT,0,Helmond,speed,0,,
+ECLI-NL-RBAMS-2019-7265,2019-10-03,2019-10-04,uitspraak,['Strafrecht'],2018-10-09,October,2018,October,2019,-1,0,AMSTERDAM,0,Amsterdam,cocaïne,1,,
+ECLI-NL-GHARL-2018-11213,2018-12-21,2019-01-10,uitspraak,['Strafrecht'],2017-11-13,November,2017,December,2018,-1,0,Midden-Nederland,0,,hennep,1,,
+ECLI-NL-RBAMS-2022-1554,2022-02-24,2022-04-04,uitspraak,['Strafrecht'],2020-04-07,April,2020,February,2022,0,0,AMSTERDAM,0,Amsterdam,xtc,1,,
+ECLI-NL-RBDHA-2018-2729,2018-03-09,2018-03-12,uitspraak,['Strafrecht'],2017-03-20,March,2017,March,2018,22,1,Den Haag,0,Boskoop,hennep,0,,
+ECLI-NL-RBDHA-2018-2730,2018-03-09,2018-03-09,uitspraak,['Strafrecht'],2017-03-20,March,2017,March,2018,19,1,Den Haag,0,Boskoop,cocaïne,0,,
+ECLI-NL-RBMNE-2022-5528,2022-12-20,2022-12-20,uitspraak,['Strafrecht'],2022-09-02,September,2022,December,2022,0,0,MIDDEN-NEDERLAND,0,Lelystad,cocaïne,1,,Lelystad
+ECLI-NL-RBDHA-2017-1559,2017-02-20,2017-02-21,uitspraak,['Strafrecht; Materieel strafrecht'],2016-02-17,February,2016,February,2017,0,0,Den Haag,0,Ter Aar,(hard)drugs,1,,
+ECLI-NL-RBAMS-2022-1555,2022-02-24,2022-04-04,uitspraak,['Strafrecht'],2020-04-07,April,2020,February,2022,23,0,AMSTERDAM,0,Amsterdam,xtc,0,,
+ECLI-NL-GHARL-2021-6304,2021-06-23,2021-07-19,uitspraak,['Strafrecht'],2019-06-21,June,2019,June,2021,20,0,Noord-Nederland,1,Hem,mdma,0,Arnhem-Leeuwarden,Leeuwarden
+ECLI-NL-RBNNE-2016-2653,2016-02-23,2016-08-18,uitspraak,['Strafrecht'],2014-05-02,May,2014,February,2016,0,0,NOORD-NEDERLAND,0,Friesland,speed,1,,
+ECLI-NL-RBAMS-2020-3529,2020-07-22,2020-07-22,uitspraak,['Strafrecht'],2020-01-27,January,2020,July,2020,22,0,AMSTERDAM,0,Amsterdam,mdma,0,,
+ECLI-NL-RBAMS-2019-4671,2019-07-02,2019-07-02,uitspraak,['Strafrecht'],2018-05-17,May,2018,July,2019,20,0,AMSTERDAM,0,Diemen,mdma,0,,
+ECLI-NL-RBOBR-2014-7191,2014-11-26,2014-11-26,uitspraak,['Strafrecht'],2014-06-14,June,2014,November,2014,0,0,OOST-BRABANT,0,Eindhoven,mdma,1,,
+ECLI-NL-RBOBR-2020-6427,2020-12-21,2020-12-21,uitspraak,['Strafrecht'],2020-02-28,February,2020,December,2020,21,0,OOST-BRABANT,0,Tilburg,hennep,0,,
+ECLI-NL-RBMNE-2018-5689,2018-11-21,2018-11-21,uitspraak,['Strafrecht'],2018-03-31,March,2018,November,2018,0,0,MIDDEN-NEDERLAND,0,Hilversum,mdma,1,,Lelystad
+ECLI-NL-RBNNE-2022-3765,2022-10-13,2022-10-18,uitspraak,['Strafrecht'],2022-03-26,March,2022,October,2022,0,0,NOORD-NEDERLAND,0,Groningen,hennep,1,,
+ECLI-NL-RBMNE-2018-3791,2018-07-06,2018-08-15,uitspraak,['Strafrecht'],2017-11-13,November,2017,July,2018,18,0,MIDDEN-NEDERLAND,0,Almere,hennep,0,,Lelystad
+ECLI-NL-RBNNE-2021-3045,2021-07-16,2021-07-16,uitspraak,['Strafrecht'],2020-05-20,May,2020,July,2021,21,0,NOORD-NEDERLAND,0,Hurdegaryp,cocaïne,0,,
+ECLI-NL-RBGEL-2021-291,2021-01-20,2021-02-02,uitspraak,['Strafrecht'],2020-09-23,September,2020,January,2021,23,0,GELDERLAND,0,Zaltbommel,cocaïne,0,,Arnhem
+ECLI-NL-GHSHE-2021-3144,2021-10-18,2021-10-18,uitspraak,['Strafrecht'],2020-05-08,May,2020,October,2021,20,0,Oost-Brabant,1,Drempt,amfetamine,0,'s-Hertogenbosch,
+ECLI-NL-RBOVE-2016-1290,2016-04-14,2016-04-15,uitspraak,['Strafrecht'],2014-10-27,October,2014,April,2016,21,0,Overijssel,0,Apeldoorn,cocaïne,0,,Zwolle
+ECLI-NL-RBNHO-2020-10700,2020-12-17,2020-12-17,uitspraak,['Strafrecht'],2019-04-24,April,2019,December,2020,0,0,NOORD-HOLLAND,0,Amsterdam,mdma,1,,
+ECLI-NL-RBNNE-2018-1853,2018-05-17,2018-05-17,uitspraak,['Strafrecht'],2017-12-14,December,2017,May,2018,17,0,NOORD-NEDERLAND,0,Sneek,cocaïne,1,,
+ECLI-NL-RBAMS-2020-6074,2020-10-23,2020-12-08,uitspraak,['Strafrecht'],2019-10-20,October,2019,October,2020,20,0,AMSTERDAM,0,Amsterdam,mdma,0,,
+ECLI-NL-RBNHO-2021-5549,2021-07-06,2021-07-07,uitspraak,['Strafrecht'],2020-07-13,July,2020,July,2021,19,0,NOORD-HOLLAND,0,Hoofddorp,hennep,0,,
+ECLI-NL-RBDHA-2021-11339,2021-10-07,2021-10-25,uitspraak,['Strafrecht'],2020-06-04,June,2020,October,2021,20,0,Den Haag,0,Den Haag,cocaïne,0,,
+ECLI-NL-RBAMS-2022-5604,2022-09-22,2022-10-04,uitspraak,['Strafrecht; Materieel strafrecht'],2021-10-15,October,2021,September,2022,22,0,AMSTERDAM,0,Amsterdam,mdma,0,,
+ECLI-NL-RBAMS-2019-6378,2019-08-30,2019-08-30,uitspraak,['Strafrecht'],2018-08-25,August,2018,August,2019,19,0,AMSTERDAM,0,Amsterdam,hasj,0,,
+ECLI-NL-RBNNE-2021-5174,2021-12-03,2021-12-14,uitspraak,['Strafrecht'],2021-08-05,August,2021,December,2021,20,0,NOORD-NEDERLAND,0,Friesland,mdma,0,,
+ECLI-NL-RBDHA-2022-11144,2022-11-02,2022-11-02,uitspraak,['Strafrecht'],2022-08-01,August,2022,November,2022,21,0,Den Haag,0,Warmond,cocaïne,0,,
+ECLI-NL-RBMNE-2022-544,2022-02-17,2022-02-17,uitspraak,['Strafrecht'],2020-12-11,December,2020,February,2022,-1,0,MIDDEN-NEDERLAND,0,Soest,pillen,1,,Utrecht
+ECLI-NL-RBROT-2017-836,2017-02-01,2017-02-02,uitspraak,['Strafrecht'],2015-12-10,December,2015,February,2017,0,0,Rotterdam,0,Lelystad,hennep,1,,
+ECLI-NL-RBOBR-2018-804,2018-02-22,2018-02-23,uitspraak,['Strafrecht'],2017-12-15,December,2017,February,2018,-1,0,OOST-BRABANT,0,Helmond,cocaïne,1,,
+ECLI-NL-RBDHA-2019-4276,2019-04-29,2019-05-01,uitspraak,['Strafrecht'],2018-11-04,November,2018,April,2019,18,0,Den Haag,0,Warmond,speed,0,,
+ECLI-NL-RBMNE-2020-904,2020-03-10,2020-03-10,uitspraak,['Strafrecht'],2018-10-19,October,2018,March,2020,-1,1,MIDDEN-NEDERLAND,0,Amersfoort,cocaïne,1,,Utrecht
+ECLI-NL-GHARL-2020-5449,2020-07-15,2020-07-15,uitspraak,['Strafrecht'],2018-11-08,November,2018,July,2020,17,0,Overijssel,1,Centrum,meth,1,Arnhem‑Leeuwarden,Zwolle
+ECLI-NL-RBAMS-2021-6187,2021-10-29,2021-10-29,uitspraak,['Strafrecht'],2021-01-03,January,2021,October,2021,0,0,AMSTERDAM,0,Amsterdam,LSD,1,,
+ECLI-NL-RBNNE-2019-5243,2019-12-19,2019-12-19,uitspraak,['Strafrecht'],2019-07-14,July,2019,December,2019,21,0,NOORD-NEDERLAND,0,Stadskanaal,amfetamine,0,,
+ECLI-NL-RBNHO-2022-11410,2022-12-21,2022-12-21,uitspraak,['Strafrecht'],2016-03-19,March,2016,December,2022,19,0,NOORD-HOLLAND,0,Hillegom,mdma,0,,
+ECLI-NL-RBAMS-2022-3865,2022-07-01,2022-07-07,uitspraak,['Strafrecht'],2021-11-25,November,2021,July,2022,21,0,AMSTERDAM,0,Aalsmeer,hennep,0,,
+ECLI-NL-RBAMS-2020-438,2020-01-28,2020-01-28,uitspraak,['Strafrecht'],2018-04-21,April,2018,January,2020,18,0,AMSTERDAM,0,Amsterdam,hennep,0,,
+ECLI-NL-RBNHO-2020-10486,2020-12-10,2020-12-10,uitspraak,['Strafrecht'],2020-06-17,June,2020,December,2020,0,0,NOORD-HOLLAND,0,Castricum,hasj,1,,
+ECLI-NL-RBDHA-2021-11337,2021-10-07,2021-10-25,uitspraak,['Strafrecht'],2021-02-17,February,2021,October,2021,18,0,Den Haag,0,Den Haag,pil,0,,
+ECLI-NL-RBGEL-2016-1909,2016-03-30,2016-04-07,uitspraak,['Strafrecht'],2016-03-16,March,2016,March,2016,1,0,GELDERLAND,0,Nijmegen,hennep,1,,Arnhem
+ECLI-NL-RBOVE-2015-3631,2015-07-30,2015-07-30,uitspraak,['Strafrecht'],2014-08-05,August,2014,July,2015,18,0,Overijssel,0,Hengelo,LSD,0,,Almelo
+ECLI-NL-RBAMS-2021-5496,2021-09-02,2021-10-11,uitspraak,['Strafrecht; Materieel strafrecht'],2020-07-25,July,2020,September,2021,21,0,AMSTERDAM,0,Amsterdam,mdma,0,,
+ECLI-NL-RBNNE-2020-3926,2020-11-10,2020-11-18,uitspraak,['Strafrecht'],2019-10-19,October,2019,November,2020,21,0,NOORD-NEDERLAND,0,Leeuwarden,hennep,0,,
+ECLI-NL-RBAMS-2020-4129,2020-07-15,2020-08-27,uitspraak,['Strafrecht'],2019-11-25,November,2019,July,2020,20,0,AMSTERDAM,0,Amsterdam,mdma,0,,
+ECLI-NL-RBAMS-2022-1546,2022-03-29,2022-04-01,uitspraak,['Strafrecht'],2021-11-12,November,2021,March,2022,22,0,AMSTERDAM,0,Amsterdam,hennep,0,,
+ECLI-NL-RBROT-2020-5715,2020-06-24,2020-07-01,uitspraak,['Strafrecht'],2019-11-16,November,2019,June,2020,0,0,Rotterdam,0,Rotterdam,meth,1,,
+ECLI-NL-RBMNE-2015-742,2015-02-10,2015-02-10,uitspraak,['Strafrecht'],2014-10-14,October,2014,February,2015,-1,0,MIDDEN-NEDERLAND,0,Amsterdam,hennep,1,,
+ECLI-NL-RBROT-2022-9863,2022-11-14,2022-11-15,uitspraak,['Strafrecht'],2021-01-11,January,2021,November,2022,22,0,Rotterdam,0,Capelle,ketamine,0,,
+ECLI-NL-RBNNE-2021-5084,2021-11-30,2021-11-30,uitspraak,['Strafrecht'],2019-03-14,March,2019,November,2021,18,0,NOORD-NEDERLAND,0,Amsterdam,xtc,0,,
+ECLI-NL-RBZWB-2021-4521,2021-09-09,2021-09-09,uitspraak,['Strafrecht'],2018-10-11,October,2018,September,2021,20,0,ZEELAND-WEST-BRABANT,0,Hoogerheide,xtc,0,,
+ECLI-NL-RBROT-2018-5967,2018-06-05,2018-07-23,uitspraak,['Strafrecht'],2017-03-31,March,2017,June,2018,0,0,Rotterdam,0,Schiedam,hennep,1,,
+ECLI-NL-RBAMS-2020-1806,2020-03-17,2020-03-23,uitspraak,['Strafrecht'],2019-04-19,April,2019,March,2020,20,0,AMSTERDAM,0,Amsterdam,hennep,0,,
+ECLI-NL-RBOVE-2022-3834,2022-12-20,2022-12-20,uitspraak,['Strafrecht'],2021-12-02,December,2021,December,2022,17,0,OVERIJSSEL,0,Zwolle,hennep,1,,Zwolle
+ECLI-NL-RBMNE-2021-321,2021-02-03,2021-02-03,uitspraak,['Strafrecht'],2019-12-21,December,2019,February,2021,-1,0,MIDDEN-NEDERLAND,1,Almere,cocaïne,1,Arnhem-Leeuwarden,Lelystad
+ECLI-NL-GHSHE-2006-AZ0901,2006-10-25,2006-10-25,uitspraak,['Strafrecht'],2004-07-29,July,2004,October,2006,17,0,Maastricht,1,Maastricht,cocaïne,1,'s-Hertogenbosch,
+ECLI-NL-RBLIM-2022-896,2022-02-08,2022-02-08,uitspraak,['Strafrecht'],2021-08-05,August,2021,February,2022,21,0,LIMBURG,0,Heerlen,hennep,0,,Maastricht
+ECLI-NL-RBMNE-2022-1519,2022-02-17,2022-06-07,uitspraak,['Strafrecht; Materieel strafrecht'],2020-12-11,December,2020,February,2022,18,0,MIDDEN-NEDERLAND,0,Soest,pillen,0,,Utrecht
+ECLI-NL-RBOVE-2017-4738,2017-12-22,2017-12-22,uitspraak,['Strafrecht'],2017-06-25,June,2017,December,2017,22,0,Overijssel,0,Hengelo,hennep,0,,Almelo
+ECLI-NL-RBMNE-2017-1422,2017-02-28,2017-03-24,uitspraak,['Strafrecht'],2016-07-24,July,2016,February,2017,0,0,MIDDEN-NEDERLAND,0,Almere,meth,1,,Lelystad
+ECLI-NL-RBLIM-2021-7190,2021-09-20,2021-09-22,uitspraak,['Strafrecht'],2020-05-27,May,2020,September,2021,22,0,LIMBURG,1,Brunssum,mdma,0,’s-Hertogenbosch,Maastricht
+ECLI-NL-RBMNE-2020-908,2020-03-10,2020-03-10,uitspraak,['Strafrecht'],2019-02-24,February,2019,March,2020,0,1,MIDDEN-NEDERLAND,0,Amersfoort,cocaïne,1,,Utrecht
+ECLI-NL-RBGEL-2018-4931,2018-09-18,2018-11-20,uitspraak,['Strafrecht'],2017-08-25,August,2017,September,2018,-1,0,GELDERLAND,0,Winterswijk,hennep,1,,Arnhem
+ECLI-NL-RBNNE-2017-1642,2017-05-04,2017-05-04,uitspraak,['Strafrecht'],2016-10-14,October,2016,May,2017,20,0,NOORD-NEDERLAND,0,Leeuwarden,ghb,0,,
+ECLI-NL-RBLIM-2020-9855,2020-11-25,2020-12-15,uitspraak,['Strafrecht; Materieel strafrecht'],2020-02-12,February,2020,November,2020,19,0,LIMBURG,0,Sittard,pillen,0,,Roermond
+ECLI-NL-RBAMS-2019-9303,2019-12-11,2019-12-17,uitspraak,['Strafrecht; Materieel strafrecht'],2019-11-27,November,2019,December,2019,20,0,AMSTERDAM,0,Amsterdam,mdma,0,,
+ECLI-NL-GHDHA-2016-3609,2016-09-15,2016-12-06,uitspraak,['Strafrecht'],2016-07-14,July,2016,September,2016,19,0,Den Haag,1,Alphen,hennep,0,Den Haag,
+ECLI-NL-RBNNE-2022-3089,2022-08-23,2022-08-24,uitspraak,['Strafrecht'],2020-11-01,November,2020,August,2022,19,0,NOORD-NEDERLAND,0,Leeuwarden,meth,0,,
+ECLI-NL-RBLIM-2018-3931,2018-04-24,2018-04-24,uitspraak,['Strafrecht'],2018-01-01,January,2018,April,2018,0,0,LIMBURG,0,Echt,paracetamol,1,,Roermond
+ECLI-NL-RBAMS-2022-4321,2022-07-26,2022-07-28,uitspraak,['Strafrecht; Materieel strafrecht'],2022-04-29,April,2022,July,2022,18,0,AMSTERDAM,0,Amsterdam,hennep,0,,
+ECLI-NL-PHR-2021-336,2021-04-06,2021-04-07,conclusie,['Strafrecht'],2012-06-01,June,2012,April,2021,26,1,ziet,1,Tilburg,hennep,0,'s-Hertogenbosch,
+ECLI-NL-RBMNE-2021-3440,2021-07-26,2021-07-26,uitspraak,['Strafrecht; Materieel strafrecht'],2020-10-29,October,2020,July,2021,19,0,MIDDEN-NEDERLAND,1,Utrecht,hasj,0,Amsterdam,Utrecht
+ECLI-NL-RBNNE-2017-4144,2017-10-31,2017-11-01,uitspraak,['Strafrecht'],2016-09-17,September,2016,October,2017,18,0,NOORD-NEDERLAND,0,Hoogeveen,cocaïne,0,,
+ECLI-NL-GHSGR-2012-BY1246,2012-10-25,2012-10-25,uitspraak,['Strafrecht'],2012-09-28,September,2012,October,2012,25,0,Rotterdam,1,Spijkenisse,cocaïne,0,'s-Gravenhage,
+ECLI-NL-RBMNE-2022-1984,2022-05-25,2022-05-25,uitspraak,['Strafrecht'],2021-03-07,March,2021,May,2022,0,0,MIDDEN-NEDERLAND,0,Ankeveen,LSD,1,,Utrecht
+ECLI-NL-RBNNE-2022-2415,2022-07-01,2022-07-15,uitspraak,['Strafrecht'],2018-05-06,May,2018,July,2022,19,0,NOORD-NEDERLAND,1,Lemmer,speed,0,vervolging,
+ECLI-NL-RBDHA-2022-6299,2022-06-30,2022-06-30,uitspraak,['Strafrecht'],2022-04-14,April,2022,June,2022,0,0,Den Haag,0,Alphen,cocaïne,1,,
+ECLI-NL-RBGEL-2015-2038,2015-03-23,2015-03-24,uitspraak,['Strafrecht'],2014-08-24,August,2014,March,2015,0,0,GELDERLAND,0,Druten,(hard)drugs,1,,Arnhem
+ECLI-NL-RBAMS-2022-1364,2022-03-21,2022-03-23,uitspraak,['Strafrecht'],2021-11-24,November,2021,March,2022,21,0,AMSTERDAM,0,Amsterdam,meth,0,,
+ECLI-NL-RBZWB-2022-6753,2022-11-15,2022-11-15,uitspraak,['Strafrecht'],2022-01-09,January,2022,November,2022,17,0,ZEELAND-WEST-BRABANT,0,Middelburg,hennep,1,,
+ECLI-NL-GHARN-2010-BM0835,2010-04-09,2010-04-12,uitspraak,['Strafrecht'],2008-11-26,November,2008,April,2010,-1,0,Zwolle-Lelystad,1,Beverwijk,LSD,1,Arnhem,
+ECLI-NL-RBDHA-2021-12995,2021-11-26,2021-11-26,uitspraak,['Strafrecht'],2020-07-29,July,2020,November,2021,22,0,Den Haag,0,Zoetermeer,hennep,0,,
+ECLI-NL-RBGEL-2014-4328,2014-07-11,2014-07-14,uitspraak,['Strafrecht'],2013-02-08,February,2013,July,2014,0,0,GELDERLAND,0,Ermelo,meth,1,,Zutphen
+ECLI-NL-RBNNE-2015-6414,2015-12-15,2016-06-29,uitspraak,['Strafrecht'],2015-01-08,January,2015,December,2015,0,0,NOORD-NEDERLAND,0,Leeuwarden,cocaïne,1,,
+ECLI-NL-RBDHA-2019-13399,2019-12-09,2019-12-17,uitspraak,['Strafrecht'],2019-05-11,May,2019,December,2019,18,0,Den Haag,1,Den Haag,cocaïne,0,Den Haag,
+ECLI-NL-RBNHO-2013-9066,2013-07-11,2013-10-01,uitspraak,['Strafrecht'],2013-06-17,June,2013,July,2013,0,1,NOORD-HOLLAND,0,Purmerend,speed,1,,
+ECLI-NL-RBLIM-2014-2800,2014-03-25,2014-03-25,uitspraak,['Strafrecht'],2012-08-22,August,2012,March,2014,-2,0,LIMBURG,0,Venlo,hennep,1,,Maastricht
+ECLI-NL-RBLIM-2019-11665,2019-12-30,2019-12-30,uitspraak,['Strafrecht'],2017-11-01,November,2017,December,2019,20,0,LIMBURG,0,Rotterdam,cocaïne,0,,Roermond
+ECLI-NL-RBAMS-2021-7612,2021-12-23,2021-12-23,uitspraak,['Strafrecht'],2020-05-03,May,2020,December,2021,21,0,AMSTERDAM,0,Amsterdam,pep,0,,
+ECLI-NL-RBMNE-2021-3435,2021-07-26,2021-07-26,uitspraak,['Strafrecht; Materieel strafrecht'],2020-10-29,October,2020,July,2021,19,0,MIDDEN-NEDERLAND,0,Utrecht,hasj,0,,Utrecht
+ECLI-NL-RBLIM-2014-2757,2014-03-25,2014-03-25,uitspraak,['Strafrecht'],2012-08-22,August,2012,March,2014,-2,0,LIMBURG,0,Venlo,hennep,1,,Maastricht
+ECLI-NL-RBLIM-2021-1561,2021-02-23,2021-02-25,uitspraak,['Strafrecht'],2020-04-25,April,2020,February,2021,0,0,LIMBURG,0,Maastricht,hennep,1,,Roermond
+ECLI-NL-RBMNE-2019-3410,2019-03-27,2019-10-10,uitspraak,['Strafrecht; Materieel strafrecht'],2013-11-05,November,2013,March,2019,0,1,MIDDEN-NEDERLAND,1,Utrecht,hennep,1,ten,Lelystad
+ECLI-NL-RBDHA-2021-12978,2021-11-26,2021-11-26,uitspraak,['Strafrecht'],2020-07-29,July,2020,November,2021,21,0,Den Haag,0,Zoetermeer,hennep,0,,
+ECLI-NL-RBZWB-2019-786,2019-02-26,2019-02-26,uitspraak,['Strafrecht'],2017-08-15,August,2017,February,2019,19,0,ZEELAND-WEST-BRABANT,0,Rotterdam,xtc,0,,
+ECLI-NL-RBMNE-2020-4495,2020-10-16,2020-10-26,uitspraak,['Strafrecht'],2016-11-28,November,2016,October,2020,-3,1,MIDDEN-NEDERLAND,0,Almere,meth,1,,Lelystad
+ECLI-NL-RBLIM-2017-3317,2017-04-13,2017-04-13,uitspraak,['Strafrecht'],2012-08-27,August,2012,April,2017,-5,0,LIMBURG,0,Utrecht,hennep,1,,Maastricht
+ECLI-NL-RBOVE-2021-4198,2021-11-10,2021-11-10,uitspraak,['Strafrecht'],2020-01-14,January,2020,November,2021,20,0,OVERIJSSEL,0,Zwolle,ghb,0,,Zwolle
+ECLI-NL-RBMNE-2020-4872,2020-11-10,2020-11-10,uitspraak,['Strafrecht'],2019-11-11,November,2019,November,2020,0,0,MIDDEN-NEDERLAND,0,Houten,mdma,1,,Utrecht
+ECLI-NL-RBMAA-2011-BR0736,2011-07-08,2011-07-08,uitspraak,['Strafrecht'],2010-07-20,July,2010,July,2011,-1,0,MAASTRICHT,0,Sittard,gbl,1,,
